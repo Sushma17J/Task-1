@@ -1,4 +1,4 @@
-This dataset contains information about medical appointments and whether patients showed up.
+This dataset contains information about customer data identify personality traits and which helps business improve targeted sites.
 It is a cleaned version of the original Kaggle "Customer Personality Analysis" dataset.
 
 | Action             | Details                                     |
